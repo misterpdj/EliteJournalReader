@@ -75,6 +75,7 @@
     <Compile Include="Events\JetConeDamageEvent.cs" />
     <Compile Include="Events\JetConeBoostEvent.cs" />
     <Compile Include="Events\FetchRemoteModuleEvent.cs" />
+    <Compile Include="Events\CargoEvent.cs" />
     <Compile Include="Events\MassModuleStoreEvent.cs" />
     <Compile Include="Events\ModuleSellRemoteEvent.cs" />
     <Compile Include="Events\ModuleStoreEvent.cs" />
